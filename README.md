@@ -15,11 +15,11 @@ MyTaskList App adalah aplikasi manajemen tugas harian yang dirancang dengan anta
 - [x] List Dinamis dengan FlatList (P06): Menggunakan FlatList dengan keyExtractor dan ListEmptyComponent yang estetik.
 - [x] Fitur CRUD: Berhasil mengimplementasikan fungsi Create (Add), Read (List), Update (Edit), dan Delete (Hapus).
 - [x] Fitur Bonus:
-Mark as Done: Fitur centang untuk menyelesaikan tugas.
-Counter Progres: Menampilkan jumlah tugas selesai dari total tugas disertai Progress Bar.
-Prioritas Task: Penggunaan warna berbeda untuk level Tinggi, Sedang, dan Rendah.
-Filter View: Navigasi untuk memfilter list (Semua / Aktif / Selesai).
-UI Profesional: Desain bertema pink yang konsisten, rapi, dan responsif.
+      - [x] Mark as Done: Fitur centang untuk menyelesaikan tugas.
+      - [x] Counter Progres: Menampilkan jumlah tugas selesai dari total tugas disertai Progress Bar.
+      - [x] Prioritas Task: Penggunaan warna berbeda untuk level Tinggi, Sedang, dan Rendah.
+      - [x] Filter View: Navigasi untuk memfilter list (Semua / Aktif / Selesai).
+      - [x] UI Profesional: Desain bertema pink yang konsisten, rapi, dan responsif.
 
 ## Screenshot app di HP fisik 
 <img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/12bf2124-15d3-46db-9369-cbce96b86c21" />
