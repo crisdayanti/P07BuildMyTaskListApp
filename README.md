@@ -32,4 +32,4 @@ MyTaskList App adalah aplikasi manajemen tugas harian yang dirancang dengan anta
 5. Pastikan HP dan Laptop berada di jaringan Wi-Fi yang sama agar sinkronisasi berjalan lancar.
 
 ## 🔗 Demo
-[Cek di Expo Snack][https://snack.expo.dev/@crisdayanti/pertemuan7]
+[Cek di Expo Snack](https://snack.expo.dev/@crisdayanti/pertemuan7)
